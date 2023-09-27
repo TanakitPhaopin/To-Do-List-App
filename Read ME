@@ -1,0 +1,24 @@
+This project main takeaways:
+
+## HTML
+
+- input
+- button
+
+## CSS
+
+- background; linear-gradient
+- display: flex
+- position; relation and absolute
+- justify-content; space-between
+- text-decoration: line-through
+- background-image: url(...)
+
+## Javascript
+
+- onclick
+- createElement; create HTML tags
+- innerHTML; insert value in HTML tags
+- appendChild; put child HTML tag in the parent HTML
+- addEventListener; click, enter
+- locolStorage; getItem, setItem
